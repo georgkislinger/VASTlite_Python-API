@@ -55,9 +55,9 @@ A collection of scripts and notebooks for fetching segmentation chunks from VAST
    - Generate per‐chunk meshes and stores them as `.ply` files
 
 5. **Glue chunks together**  
-   Finally, run the third cell to merge all chunk meshes into a single `.ply` file.
+   Finally, run the third cell to merge all chunk meshes into a single `.ply` file. Process full or partial mesh in your preferred 3D-rendering software
 
 ---
 
-Happy segmenting! 🎉
+Happy segmenting!!
 
