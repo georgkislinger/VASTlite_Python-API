@@ -5,6 +5,7 @@ Subset of VASTtools functions to export mesh from VAST via Python (without Matla
 A collection of scripts and notebooks for fetching segmentation chunks from VASTlite and meshing them in Python.
 
 ## Setup
+0. **Download this repository and save it to your preferred directory**
 
 1. **Install Anaconda**  
    Download and install from https://www.anaconda.com/products/distribution
