@@ -2,7 +2,7 @@
 Subset of VASTtools functions to export mesh from VAST via Python (without Matlab)
 # VASTlite Python API
 
-A collection of scripts and notebooks for fetching segmentation chunks from VASTlite and meshing them in Python.
+A collection of scripts and notebooks for fetching segmentation chunks from VASTlite (VASTlite from https://lichtman.rc.fas.harvard.edu/vast/) and meshing them in Python.
 
 ## Setup
 1. **Download this repository**
